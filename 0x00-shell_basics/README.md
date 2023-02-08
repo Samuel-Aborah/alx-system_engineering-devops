@@ -26,4 +26,7 @@ Task 8. Bye Bye Betty. (8-firstdelete)
 Delete the file Betty from my first directory in the tmp directory. 
 
 Task 9. Bye Bye my first directory. (9-firstdirdeletion)
-Delete my first directory in the tmp directory. 
+Delete my first directory in the tmp directory.
+
+Task 10. Back to the future. (10-Back)
+Write a script that changes the working directory to the previous one.  
