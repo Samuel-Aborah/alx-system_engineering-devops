@@ -17,4 +17,9 @@ Task 5. I love numbers. (5-listfilesdigitonly)
 Display current directory contents, with User and Group IDs displayed numerically and hidden files
 
 Task 6. Welcome. (6-firstdirectory)
-Create a script that creates a directory named my first directory in the tmp directory. 
+Create a script that creates a directory named my first directory in the tmp directory.
+
+
+
+Task 8. Bye Bye Betty. (8-firstdelete) 
+Delete the file Betty from my first directory in the tmp directory. 
