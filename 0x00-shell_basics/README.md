@@ -19,7 +19,8 @@ Display current directory contents, with User and Group IDs displayed numericall
 Task 6. Welcome. (6-firstdirectory)
 Create a script that creates a directory named my first directory in the tmp directory.
 
-
+Task 7. Betty in my first directory. (7-movethatfile)
+Move the filee Betty from the tmp directory to sub-directory my first directory.
 
 Task 8. Bye Bye Betty. (8-firstdelete) 
 Delete the file Betty from my first directory in the tmp directory. 
