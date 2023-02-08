@@ -10,5 +10,8 @@ Write a script that changes the working directory to the user's home directory.
 Task 3. The long format. (3-listfiles)
 Display current directory contents in a long format.
 
-Task 4. Hidden files. (4-listmorefiles0
-Display current directory contents, including hidden files starting with (.). Use long format. 
+Task 4. Hidden files. (4-listmorefiles)
+Display current directory contents, including hidden files starting with (.). Use long format.
+
+Task 5. I love numbers. (5-listfilesdigitonly)
+Display current directory contents, with User and Group IDs displayed numerically and hidden files 
