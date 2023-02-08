@@ -32,4 +32,7 @@ Task 10. Back to the future. (10-Back)
 Write a script that changes the working directory to the previous one.
 
 Task 11. Lists. (11-lists)
-A script that lists all files in the current, parent and /boot directory in a long format.   
+A script that lists all files in the current, parent and /boot directory in a long format.
+
+Task 12. File type. (12-file type)
+A script that prints out the iamafile file in the tmp directory   
