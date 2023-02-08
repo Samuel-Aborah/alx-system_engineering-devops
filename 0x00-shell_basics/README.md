@@ -14,4 +14,7 @@ Task 4. Hidden files. (4-listmorefiles)
 Display current directory contents, including hidden files starting with (.). Use long format.
 
 Task 5. I love numbers. (5-listfilesdigitonly)
-Display current directory contents, with User and Group IDs displayed numerically and hidden files 
+Display current directory contents, with User and Group IDs displayed numerically and hidden files
+
+Task 6. Welcome. (6-firstdirectory)
+Create a script that creates a directory named my first directory in the tmp directory. 
