@@ -24,3 +24,6 @@ Move the filee Betty from the tmp directory to sub-directory my first directory.
 
 Task 8. Bye Bye Betty. (8-firstdelete) 
 Delete the file Betty from my first directory in the tmp directory. 
+
+Task 9. Bye Bye my first directory. (9-firstdirdeletion)
+Delete my first directory in the tmp directory. 
