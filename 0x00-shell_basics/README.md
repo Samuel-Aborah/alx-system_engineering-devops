@@ -44,4 +44,7 @@ Task 14. copy HTML files. (14-copy html)
 Copy files to .html files   
 
 Task 15. Let's move. (100-let's move)
-Move all capitalised 1st letter files into the tmp directory. 
+Move all capitalised 1st letter files into the tmp directory.
+
+Task 16. Clean Emacs. (101-clean emacs)
+Delete all files in the current working directory that end with ~ 
