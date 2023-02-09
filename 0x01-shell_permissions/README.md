@@ -11,4 +11,7 @@ Task 4. New owner (3-new owner)
 Changing the owner of file 'hello' to user 'betty'
 
 Task 5. Empty! (4-empty)
-Create an empty file 'hello'  
+Create an empty file 'hello'
+
+Task 6. Execute (5-execute)
+Add executive permission to the owner of file 'Hello'  
