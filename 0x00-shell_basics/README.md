@@ -38,7 +38,7 @@ Task 12. File type. (12-file type)
 A script that prints out the iamafile file in the tmp directory
 
 Task 13. We are symbols, and inhabit symbols. (13-symbolic link)
-Create a symbolic link to /bin/ls, named underscore ls underscore
+Create a symbolic link to /bin/ls, named _ls_
 
 Task 14. copy HTML files. (14-copy html)
 Copy files to .html files   
