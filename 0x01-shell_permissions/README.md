@@ -26,4 +26,7 @@ Task 9. James Bond (8-James Bond)
 Set zero permission for the owner and group owner but all permissions for the other users.
 
 Task 10. John Doe (9-John Doe)
-Set full permission for the owner, execute and read for the group owner and write and execute for the other users.     
+Set full permission for the owner, execute and read for the group owner and write and execute for the other users.
+
+Task 11. Look in the mirror (10-mirror permissions)
+Set mode of hello file to olleh file     
