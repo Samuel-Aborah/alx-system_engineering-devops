@@ -8,4 +8,7 @@ Task 3. Groups (2-groups)
 Prints all the groups the current user is part of.
 
 Task 4. New owner (3-new owner)
-Changing the owner of file 'hello' to user 'betty'  
+Changing the owner of file 'hello' to user 'betty'
+
+Task 5. Empty! (4-empty)
+Create an empty file 'hello'  
