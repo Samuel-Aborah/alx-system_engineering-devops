@@ -17,4 +17,7 @@ Task 6. Execute (5-execute)
 Add execute permission to the owner of file 'Hello'
 
 Task 7. Multiple Permissions. (6-multiple permissions)
-Add execute permission to owner and group owner. Add read only permission to other users.   
+Add execute permission to owner and group owner. Add read only permission to other users. 
+
+Task 8. Everybody! (7-everybody)
+Add execute permission to owner,group owner and other users.   
