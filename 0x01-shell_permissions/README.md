@@ -5,4 +5,7 @@ Task 2. Who am I. (1-who am i)
 Prints the effective username of the current user.
 
 Task 3. Groups (2-groups)
-Prints all the groups the current user is part of.  
+Prints all the groups the current user is part of.
+
+Task 4. New owner (3-new owner)
+Changing the owner of file 'hello' to user 'betty'  
