@@ -20,4 +20,7 @@ Task 7. Multiple Permissions. (6-multiple permissions)
 Add execute permission to owner and group owner. Add read only permission to other users. 
 
 Task 8. Everybody! (7-everybody)
-Add execute permission to owner,group owner and other users.   
+Add execute permission to owner,group owner and other users.
+
+Task 9. James Bond (8-James Bond)
+Set zero permission for the owner and group owner but all permissions for the other users.    
