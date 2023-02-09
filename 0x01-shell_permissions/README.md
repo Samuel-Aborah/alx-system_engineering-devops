@@ -29,4 +29,7 @@ Task 10. John Doe (9-John Doe)
 Set full permission for the owner, execute and read for the group owner and write and execute for the other users.
 
 Task 11. Look in the mirror (10-mirror permissions)
-Set mode of hello file to olleh file     
+Set mode of hello file to olleh file
+
+Task 12. Directories (11-directories permissions)
+Execute permission to all subdirectories in the current directory for the oener, group owner and other users.      
