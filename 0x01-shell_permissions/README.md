@@ -23,4 +23,7 @@ Task 8. Everybody! (7-everybody)
 Add execute permission to owner,group owner and other users.
 
 Task 9. James Bond (8-James Bond)
-Set zero permission for the owner and group owner but all permissions for the other users.    
+Set zero permission for the owner and group owner but all permissions for the other users.
+
+Task 10. John Doe (9-John Doe)
+Set full permission for the owner, execute only for the group owner and write and execute for the other users.     
