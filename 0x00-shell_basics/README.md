@@ -47,4 +47,7 @@ Task 15. Let's move. (100-let's move)
 Move all capitalised 1st letter files into the tmp directory.
 
 Task 16. Clean Emacs. (101-clean emacs)
-Delete all files in the current working directory that end with ~ 
+Delete all files in the current working directory that end with ~
+
+Task 17. Tree. (102-tree)
+create directories welcome, welcome to and welcome to school.  
