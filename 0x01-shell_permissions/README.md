@@ -35,4 +35,7 @@ Task 12. Directories (11-directories permissions)
 Execute permission to all subdirectories in the current directory for the owner, group owner and other users.
 
 Task 13. More Directories (12-directory permissions)
-Create a directory called my dir that has full access for owner, read and execute access for group owner and execute only for other users.      
+Create a directory called my dir that has full access for owner, read and execute access for group owner and execute only for other users.
+
+Task 14. Change group (13-change group)
+Change the group owner to school for file 'hello'      
