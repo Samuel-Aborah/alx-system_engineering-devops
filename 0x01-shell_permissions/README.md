@@ -41,4 +41,7 @@ Task 14. Change group (13-change group)
 Change the group owner to school for file 'hello'
 
 Task 15. Owner and group (100-change owner and group)
-A script that changes owner and the group owner for all filea and directories in the current working directory     
+A script that changes owner and the group owner for all filea and directories in the current working directory
+
+Task 16. Symbolic links. 
+A script that changes the owner and group owner of '_hello)     
