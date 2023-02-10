@@ -44,4 +44,7 @@ Task 15. Owner and group (100-change owner and group)
 A script that changes owner and the group owner for all filea and directories in the current working directory
 
 Task 16. Symbolic links. 
-A script that changes the owner and group owner of '_hello)     
+A script that changes the owner and group owner of '_hello'
+
+Task 17. If only (102-if only)
+A script that changes the owner of 'hello' to 'betty' only if it is owned by 'guillaume'     
