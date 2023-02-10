@@ -47,4 +47,7 @@ Task 16. Symbolic links.
 A script that changes the owner and group owner of '_hello'
 
 Task 17. If only (102-if only)
-A script that changes the owner of 'hello' to 'betty' only if it is owned by 'guillaume'     
+A script that changes the owner of 'hello' to 'betty' only if it is owned by 'guillaume'
+
+Task 18. Star Wars (103-star wars)
+Play Star wars IV in the terminal     
