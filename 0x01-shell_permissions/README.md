@@ -38,4 +38,7 @@ Task 13. More Directories (12-directory permissions)
 Create a directory called my dir that has full access for owner, read and execute access for group owner and execute only for other users.
 
 Task 14. Change group (13-change group)
-Change the group owner to school for file 'hello'      
+Change the group owner to school for file 'hello'
+
+Task 15. Owner and group (100-change owner and group)
+A script that changes owner and the group owner for all filea and directories in the current working directory     
