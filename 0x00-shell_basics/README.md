@@ -50,4 +50,7 @@ Task 16. Clean Emacs. (101-clean emacs)
 Delete all files in the current working directory that end with ~
 
 Task 17. Tree. (102-tree)
-create directories welcome, welcome to and welcome to school.  
+create directories welcome, welcome to and welcome to school.
+
+Task 19. File type: School. (school.mgc)
+Create a magic file 'school.mgc'that command file to detect School  
