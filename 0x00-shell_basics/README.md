@@ -52,5 +52,8 @@ Delete all files in the current working directory that end with ~
 Task 17. Tree. (102-tree)
 create directories welcome, welcome to and welcome to school.
 
+Task 18. Life is a series of commas, not periods
+A command that lists all files and directories of the current directory seperated by commas. 
+
 Task 19. File type: School. (school.mgc)
 Create a magic file 'school.mgc'that command file to detect School  
