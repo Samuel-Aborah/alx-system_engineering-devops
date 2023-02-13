@@ -14,3 +14,6 @@ display the content of /etc/passwd and /etc/hosts
 
 4. Last Lines of a file
 Display the last 10 lines of /etc/passwd
+
+5. I'd prefer the first ones actually
+Display the first 10 lines of /etc/passwd
