@@ -26,3 +26,9 @@ Write a shell script that creates a file name \*\\'"Best School"\'\\*$\?\*\*\*\*
 
 8. Save current state of directory
 A script that writes the result of the command 'ls -la' into file 'ls cwd content'
+
+9. Duplicate the last line
+A script that duplicates the last line of the file 'iacta'
+
+10. No more javascript
+A script that deletes regular files with a .js extension
