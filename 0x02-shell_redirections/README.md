@@ -56,3 +56,6 @@ Display all the lines in the file /etc/passwd that do not contain the pattern â€
 
 18. Letters only Please
 Display all lines of the file /etc/ssh/ssh  config starting with a letter
+
+19. A to Z
+Replace all characters A and C from input to Z and e respectively. 
