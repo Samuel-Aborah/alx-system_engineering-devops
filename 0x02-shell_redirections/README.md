@@ -64,4 +64,7 @@ Replace all characters A and C from input to Z and e respectively.
 A script that removes c and C from input\
 
 21. esreveR
-A script that reverse its input 
+A script that reverse its input
+
+22. DJ Cut Killer
+Write a script that displays all users and their home directories, sorted by users. 
