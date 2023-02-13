@@ -61,4 +61,7 @@ Display all lines of the file /etc/ssh/ssh  config starting with a letter
 Replace all characters A and C from input to Z and e respectively.
 
 20. Without C, you will live in hiago
-A script that removes c and C from input 
+A script that removes c and C from input\
+
+21. esreveR
+A script that reverse its input 
