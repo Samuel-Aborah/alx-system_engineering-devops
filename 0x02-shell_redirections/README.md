@@ -35,3 +35,6 @@ A script that deletes regular files with a .js extension
 
 11. Dont just count your directories , make your directories count
 A script that counts the number of directories and sub directories in the current directory including hidden directories. 
+
+12. What's new
+Create a script that displays the 10 newest files in the current directory
