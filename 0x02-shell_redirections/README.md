@@ -53,3 +53,6 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 
 17. I hate bins
 Display all the lines in the file /etc/passwd that do not contain the pattern “bin
+
+18. Letters only Please
+Display all lines of the file /etc/ssh/ssh  config starting with a letter
