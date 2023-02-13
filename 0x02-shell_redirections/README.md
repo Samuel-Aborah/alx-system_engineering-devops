@@ -58,4 +58,7 @@ Display all the lines in the file /etc/passwd that do not contain the pattern â€
 Display all lines of the file /etc/ssh/ssh  config starting with a letter
 
 19. A to Z
-Replace all characters A and C from input to Z and e respectively. 
+Replace all characters A and C from input to Z and e respectively.
+
+20. Without C, you will live in hiago
+A script that removes c and C from input 
