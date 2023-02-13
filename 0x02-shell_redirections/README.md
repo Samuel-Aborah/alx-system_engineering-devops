@@ -32,3 +32,6 @@ A script that duplicates the last line of the file 'iacta'
 
 10. No more javascript
 A script that deletes regular files with a .js extension
+
+11. Dont just count your directories , make your directories count
+A script that counts the number of directories and sub directories in the current directory including hidden directories. 
