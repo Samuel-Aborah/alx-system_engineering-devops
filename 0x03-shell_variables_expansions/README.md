@@ -15,3 +15,6 @@ Create a script that lists environment variables.
 
 5. Local Variables
 A script that lists all local variables and environment variables, and functions.
+
+6. Local Variable
+Create a script that creates a new local variable
