@@ -7,7 +7,8 @@ A script that prints hello user, where user is current linux user
 2. The path to success is to take massive , determined action
 Add /action to PATH. /action should be the last directory the shell looks into when looking for a program.
 
-
+3. If the path be beautiful, let us not ask where it leads
+A script that counts the number of directories in the PATH.
 
 
 4. Global Varialbles
