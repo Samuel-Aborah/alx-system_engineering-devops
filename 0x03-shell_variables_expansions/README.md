@@ -12,3 +12,6 @@ Add /action to PATH. /action should be the last directory the shell looks into w
 
 4. Global Varialbles
 Create a script that lists environment variables.
+
+5. Local Variables
+A script that lists all local variables and environment variables, and functions.
